@@ -1,0 +1,58 @@
+yarn run v1.22.10
+$ storybook build --output-dir C:\Users\mloisel\AppData\Local\Temp\chromatic--32888-sfvITZdLpv6e
+@storybook/cli v8.1.3
+
+info => Cleaning outputDir: C:\Users\mloisel\AppData\Local\Temp\chromatic--32888-sfvITZdLpv6e
+info => Loading presets
+info => Building manager..
+info => Manager built (299 ms)
+info => Building preview..
+WARN No story files found for the specified pattern: src\**\*.mdx
+[36mvite v4.3.9 [32mbuilding for production...[36m[39m
+transforming...
+[32m✓[39m 661 modules transformed.
+rendering chunks...
+computing gzip size...
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[32miframe.html                                                                 [39m[1m[2m 16.12 kB[22m[1m[22m[2m │ gzip:   4.42 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/preview-73c648b3.js                                                  [39m[1m[2m  0.07 kB[22m[1m[22m[2m │ gzip:   0.08 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/emotion-use-insertion-effect-with-fallbacks.browser.esm-c0cf8dc7.js  [39m[1m[2m  0.18 kB[22m[1m[22m[2m │ gzip:   0.16 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/index-46ab2a14.js                                                    [39m[1m[2m  0.42 kB[22m[1m[22m[2m │ gzip:   0.27 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/WithTooltip-KJL26V4Q-50390073.js                                     [39m[1m[2m  0.46 kB[22m[1m[22m[2m │ gzip:   0.28 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/syntaxhighlighter-BP7B2CQK-f143b983.js                               [39m[1m[2m  0.50 kB[22m[1m[22m[2m │ gzip:   0.32 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/preview-ee71643a.js                                                  [39m[1m[2m  0.64 kB[22m[1m[22m[2m │ gzip:   0.45 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/preview-dfa23190.js                                                  [39m[1m[2m  0.71 kB[22m[1m[22m[2m │ gzip:   0.50 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/index-356e4a49.js                                                    [39m[1m[2m  0.77 kB[22m[1m[22m[2m │ gzip:   0.47 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/index-925d1bdc.js                                                    [39m[1m[2m  0.79 kB[22m[1m[22m[2m │ gzip:   0.51 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/preview-e723a07a.js                                                  [39m[1m[2m  0.81 kB[22m[1m[22m[2m │ gzip:   0.54 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/v4-4a60fe23.js                                                       [39m[1m[2m  0.87 kB[22m[1m[22m[2m │ gzip:   0.46 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/animation-5ffafef3.js                                                [39m[1m[2m  1.19 kB[22m[1m[22m[2m │ gzip:   0.39 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/entry-preview-b50c3774.js                                            [39m[1m[2m  1.33 kB[22m[1m[22m[2m │ gzip:   0.76 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/preview-2c635da0.js                                                  [39m[1m[2m  1.74 kB[22m[1m[22m[2m │ gzip:   0.91 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/styles-fcebd997.js                                                   [39m[1m[2m  2.08 kB[22m[1m[22m[2m │ gzip:   1.19 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/index-8c3ac41d.js                                                    [39m[1m[2m  2.59 kB[22m[1m[22m[2m │ gzip:   1.26 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/StoryLinkWrapper-ce9ad689.js                                         [39m[1m[2m  2.63 kB[22m[1m[22m[2m │ gzip:   1.28 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/preview-e288b470.js                                                  [39m[1m[2m  2.73 kB[22m[1m[22m[2m │ gzip:   1.37 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/Icon.stories-9557e621.js                                             [39m[1m[2m  3.14 kB[22m[1m[22m[2m │ gzip:   1.21 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/preview-98b085a7.js                                                  [39m[1m[2m  3.19 kB[22m[1m[22m[2m │ gzip:   1.37 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/Badge.stories-03996b55.js                                            [39m[1m[2m  4.76 kB[22m[1m[22m[2m │ gzip:   1.52 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/iframe-c79674f5.js                                                   [39m[1m[2m  5.33 kB[22m[1m[22m[2m │ gzip:   1.65 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/Avatar.stories-16d7193e.js                                           [39m[1m[2m  6.70 kB[22m[1m[22m[2m │ gzip:   2.15 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/Link.stories-4f265006.js                                             [39m[1m[2m  7.19 kB[22m[1m[22m[2m │ gzip:   2.22 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/preview-da31036b.js                                                  [39m[1m[2m  7.62 kB[22m[1m[22m[2m │ gzip:   1.55 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/index-32f9f3e1.js                                                    [39m[1m[2m  7.83 kB[22m[1m[22m[2m │ gzip:   3.09 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/preview-c56bf6ac.js                                                  [39m[1m[2m  8.28 kB[22m[1m[22m[2m │ gzip:   3.17 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/polished.esm-b6220ab2.js                                             [39m[1m[2m 10.86 kB[22m[1m[22m[2m │ gzip:   3.90 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/emotion-react-jsx-runtime.browser.esm-dec31971.js                    [39m[1m[2m 18.32 kB[22m[1m[22m[2m │ gzip:   7.35 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/Button.stories-b5e9d068.js                                           [39m[1m[2m 22.64 kB[22m[1m[22m[2m │ gzip:   3.81 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/Color-PRSJMWNM-33e6c38c.js                                           [39m[1m[2m 31.24 kB[22m[1m[22m[2m │ gzip:  11.87 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/preview-37db51a3.js                                                  [39m[1m[2m 61.12 kB[22m[1m[22m[2m │ gzip:  21.32 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/_getPrototype-d6f5322d.js                                            [39m[1m[2m 78.91 kB[22m[1m[22m[2m │ gzip:  23.67 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/react-18-fe3136d7.js                                                 [39m[1m[2m134.52 kB[22m[1m[22m[2m │ gzip:  43.43 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/Icon-4c25c1da.js                                                     [39m[1m[2m140.34 kB[22m[1m[22m[2m │ gzip:  50.98 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/formatter-2WMMO6ZP-c67109b4.js                                       [39m[1m[2m210.88 kB[22m[1m[22m[2m │ gzip:  70.73 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/entry-preview-docs-bcd23d4f.js                                       [39m[1m[2m212.78 kB[22m[1m[22m[2m │ gzip:  66.60 kB[22m
+[2mC:/Users/mloisel/AppData/Local/Temp/chromatic--32888-sfvITZdLpv6e/[22m[36massets/DocsRenderer-K4EAMTCU-e6179a4f.js                                    [39m[1m[33m605.05 kB[39m[22m[2m │ gzip: 183.75 kB[22m
+[32m✓ built in 10.03s[39m
+info => Preview built (12 s)
+info => Output directory: C:\Users\mloisel\AppData\Local\Temp\chromatic--32888-sfvITZdLpv6e
+Done in 17.18s.
